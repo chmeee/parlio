@@ -23,3 +23,4 @@ do roughly the following steps:
 If you have any other issues, please contact us using
 http://support.railsrumble.com or by using the #railsrumble
 IRC channel on Freenode.
+Test
